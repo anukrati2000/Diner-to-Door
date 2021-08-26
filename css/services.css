@@ -1,0 +1,71 @@
+
+/* NavBar */
+.navbar {
+  background-color: #fdffbc;
+}
+
+.nav-text {
+  font-size: 1.2rem;
+  font-family: 'Bodoni Moda', serif;
+  font-weight: 500;
+  margin: 0 2rem 0 0;
+}
+
+.navbar-nav {
+  position: absolute;
+  right: 10%;
+}
+
+/* header */
+
+#header {
+  text-align: center;
+  margin-top: 3%;
+  font-family: 'Bodoni Moda', serif;
+}
+
+.container {
+  padding: 7% 5%;
+  background-image: url("../images/serviceback.png");
+}
+
+/* Services */
+
+#services {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  line-height: 2;
+  text-align: center;
+}
+
+.services {
+  margin: 5% 30%;
+}
+
+.services-content {
+  margin: 15% 5%;
+}
+
+.ic {
+  margin-bottom: 5%;
+}
+
+
+/* Contact */
+#contact-us {
+  padding: 7% 25%;
+  text-align: center;
+  background-color: #fdffbc;
+}
+
+.contact-head {
+  font-family: 'Bodoni Moda', serif;
+}
+
+.icon {
+  margin: 7% 5% 0;
+}
+
+.icon:hover {
+  color: grey;
+}

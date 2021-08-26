@@ -1,0 +1,66 @@
+/* NavBar */
+.navbar {
+  background-color: #fdffbc;
+}
+
+.nav-text {
+  font-size: 1.2rem;
+  font-family: 'Bodoni Moda', serif;
+  font-weight: 500;
+  margin: 0 2rem 0 0;
+}
+
+.navbar-nav {
+  position: absolute;
+  right: 10%;
+}
+
+/* form */
+
+.form-data {
+  margin: 0 20%;
+  margin-bottom: 5%;
+}
+
+/* contact Us */
+
+#contact {
+  margin: 5% 0;
+  padding: 5% 0;
+  background-color: #ffeebb;
+  text-align: center;
+}
+
+.head-contact {
+  font-size: 1.2rem;
+  font-family: 'Bodoni Moda', serif;
+  font-weight: 500;
+  padding: 5% 0;
+}
+
+.contact-text {
+  padding: 0 7%;
+}
+
+.image-text {
+  margin: 5% 0 20%;
+}
+
+/* Contact */
+#contact-us {
+  padding: 7% 25%;
+  text-align: center;
+  background-color: #fdffbc;
+}
+
+.contact-head {
+  font-family: 'Bodoni Moda', serif;
+}
+
+.icon {
+  margin: 7% 5% 0;
+}
+
+.icon:hover {
+  color: grey;
+}
